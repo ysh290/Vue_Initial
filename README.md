@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # guigu_project
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -37,3 +38,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# Vue_Initial
+vue3前端模板
+>>>>>>> dc218d6e7c87d6053790b94c014b43c6531062e5
